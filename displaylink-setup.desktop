@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Setup Displaylink
+GenericName=Auto setup of displaylink screens 
+Comment=Setup Displaylink
+Exec=/opt/displaylink-setup.sh
+Terminal=false
+Type=Application
+Icon=display-projector-symbolic
