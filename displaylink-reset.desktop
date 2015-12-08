@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Disable Displaylink
+GenericName=Disable Displaylink
+Comment=Disable DisplayLink
+Exec=/opt/displaylink-reset.sh
+Terminal=false
+Type=Application
+Icon=display-projector-symbolic
