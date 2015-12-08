@@ -1,0 +1,3 @@
+Cmnd_Alias DISPLAYLINK_CMDS = /bin/systemctl stop displaylink.service, /bin/systemctl start displaylink.service, /bin/systemctl restart displaylink.service
+
+ALL ALL=(ALL) NOPASSWD: DISPLAYLINK_CMDS
